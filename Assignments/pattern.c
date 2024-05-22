@@ -1,10 +1,9 @@
 #include <stdio.h>
 int main(void)
 {
-int a,b,c;
-a=111;
-b=222;
-c=printf("%d",a)+ ++b;
-printf(" %d",c);
+float x;
+x=0.22f==(float)(2.2/10.0);
+printf("x=%2.2f",!x);
+
 return 0;
 }
