@@ -18,24 +18,7 @@ int main()
     printf("*(arr+3) = %d\n",*(arr+3));  //Value of pointer at array[3]
     printf("*arr+3 = %d\n",*arr+3);      //0th index is 11+3=14
 
-/*// Program for Array notation and pointer notation
 
-#include<stdio.h>
-void main()
-{
-    int arr [5];
-    printf("Enter the array Values:- \n");
-    for(int i=0;i<=5;i++)
-    {
-        printf("arr(%d)=",i);
-        scanf("%d",&arr[i]);
-    }
-
-
-
-
-
-}*/
 
     return 0;
 }
