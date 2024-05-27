@@ -1,8 +1,8 @@
-# C Programming Projects
+# C Programming Codes
 
 ![C](https://img.shields.io/badge/language-C-blue.svg)
 
-Welcome to the C Programming Projects repository! This repository contains various C language code examples and projects.
+Welcome to the C Programming Codes repository! This repository contains various C language code examples.
 
 ## Table of Contents
 
