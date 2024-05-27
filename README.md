@@ -6,11 +6,7 @@ Welcome to the C Programming Projects repository! This repository contains vario
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- Everyday Codes
 
 ## Introduction
 
@@ -29,16 +25,10 @@ To get started with these projects, you'll need to have a C compiler installed o
 
 1. **Install GCC**:
 
-   - On Debian/Ubuntu:
-
-     ```sh
-     sudo apt update
-     sudo apt install build-essential
-     ```
 
 
 2. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/c-programming-projects.git
-   cd c-programming-projects
+   git clone https://github.com/shubhamnigave/My-C-Codes.git
+   cd My-C-Codes
